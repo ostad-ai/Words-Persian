@@ -3,3 +3,4 @@ Programs related to Instagram @words.persian, in which Science especially Artifi
 https://www.instagram.com/words.persian
 
 1) GCD (Greatest Common Divisor)
+2) LCM (Least Common Multiple)
