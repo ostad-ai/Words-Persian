@@ -6,3 +6,4 @@ https://www.instagram.com/words.persian
 2) LCM (Least Common Multiple) in Python
 3) Extended Euclidean Algorithm and Bezout's Identity in Python
 4) Multiplicative inverse in modular arithmetic using Bezout's identiy in Python 
+5) Trial division for prime factorization in Python
