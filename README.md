@@ -8,3 +8,4 @@ https://www.instagram.com/words.persian
 4) Multiplicative inverse in modular arithmetic using Bezout's identiy in Python 
 5) Trial division for prime factorization in Python
 6) Shift (Caesar) cipher in Python
+7) Affine cipher in Python
